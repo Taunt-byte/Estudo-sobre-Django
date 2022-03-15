@@ -11,11 +11,9 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#Instalação)
+   * [Conceito](#conceito)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-   * [Tecnologias](#tecnologias)
 <!--te-->
 
 <h4 align="center"> 
@@ -24,35 +22,8 @@ Tabela de conteúdos
 
 ## Sobre
 
-Aqui esta tudo o que estou aprendendo sobre django e algumas coisas a mais como python e frameworks como pure por exemplo fique a vontade para me corrigir nesse repositorio alias.
-
-## Tabela de conteudo
-
-- [x] Conteudo
-- [ ] Conteudo
-- [ ] Conteudo
-- [ ] Conteudo
-- [ ] Conteudo
+  Django é um framework para desenvolvimento rápido para web, escrito em Python, que utiliza o padrão model-template-view.
 
 ## Instalação
 
--
-
-## Como usar
-
--
-
-## Pre Requisitos
-
--
-
-## Tecnologias
-
-<table>
-    <tr>
-    <td>Python</td>
-    </tr>
-    <tr>
-    <td>3.*</td>
-    </tr>
-</table>
+  Antes de utilizar o framework primeiro deve se ter a linguagem instaldas em sua maquina
