@@ -13,7 +13,6 @@ Tabela de conteúdos
    * [Sobre](#Sobre)
    * [Instalação](#Instalação)
    * [Conceitos](#Conceitos)
-   * [Como usar](#como-usar)
 <!--te-->
 
 ## Sobre
@@ -32,6 +31,18 @@ Tabela de conteúdos
 
     https://www.djangoproject.com/download/
 
+## Como começar
+
+Para iniciar o Django basta ir no terminal e escrever o seguinte comando
+    
+    django-admin startproject Projeto-Name
+
+ O Projeto Django sera instalado apos esse comando.
+
+ Particularmente achei melhor mudar o nome da pagina do projeto de apptest para bloq pois ja havia uma com o mesmo nome isso acontece pois na hora da instalação o Django coloca ambas as pasta a de origem e a que contem o projeto com o mesmo nome.
+
 ## Conceitos
 
-## Como usar
+ O django oferece um comando para que se possa testar a aplicação em um servidor de teste 
+
+    
