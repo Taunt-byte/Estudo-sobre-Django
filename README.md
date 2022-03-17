@@ -34,7 +34,7 @@ Tabela de conteúdos
 ## Como começar
 
 Para iniciar o Django basta ir no terminal e escrever o seguinte comando
-    
+
     django-admin startproject Projeto-Name
 
  O Projeto Django sera instalado apos esse comando.
