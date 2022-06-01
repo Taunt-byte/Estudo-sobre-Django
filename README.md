@@ -43,6 +43,23 @@ Para iniciar o Django basta ir no terminal e escrever o seguinte comando
 
 ## Conceitos
 
- O django oferece um comando para que se possa testar a aplicação em um servidor de teste 
++ Foi Desenvolvido com uma preocupação extra para area de segurança de software,assim sendo capaz de evitar os mais comuns ataques ciberneticos.
 
-    
++ Django é conhecido por ser escalavel,isso ocorre devido a sua arquitetura de "zero-Compartilhamento".
+
+## Frameworks
+
+1) Pure
+
+2) Yui 
+
+
+## Fluxo de uma requisição no Django
+
+O Django é divido em três camadas
+
++ Models
+
++ Views
+
++ Templates
